@@ -1,0 +1,1 @@
+console.lang(123);
